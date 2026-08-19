@@ -1,38 +1,70 @@
+# Hi, I'm Junbo 👋
 
-## Hi, I'm Junbo 👋
+<a href="https://github.com/Jasper-bo">
+  <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=Jasper-bo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Junbo's GitHub statistics" />
+</a>
 
-I'm a computer science student and an **AI-native product builder**. I turn real user signals into focused product decisions, then shorten the distance from a written idea to working software.
+- 🎓 Computer science student and **AI-native product builder**
+- 🌱 Exploring **AI agents, agentic commerce, and focused health software**
+- 🧭 Turning real demand signals into clear product decisions and working interfaces
+- 🛠️ Building with **TypeScript, Next.js, React, and PostgreSQL**
+- 💬 Ask me about AI product workflows, agent evaluation, or my projects
 
-我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是“让 AI 多生成一些东西”，而是如何用它更快地理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
+我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是让 AI 生成更多内容，而是如何更快理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
+
+<br clear="right" />
 
 <p align="center">
-  <a href="https://jasper-bo.github.io/">Personal site</a>
-  ·
-  <a href="mailto:2909066560@qq.com">Email</a>
-  ·
-  <a href="https://x.com/mniu61934">X / @mniu61934</a>
+  <a href="https://jasper-bo.github.io/">
+    <img src="https://img.shields.io/badge/Personal_Site-0EA5E9?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" alt="Personal website" />
+  </a>
+  <a href="mailto:2909066560@qq.com">
+    <img src="https://img.shields.io/badge/Email-2909066560%40qq.com-7C3AED?style=for-the-badge&amp;logo=tencentqq&amp;logoColor=white" alt="Email 2909066560@qq.com" />
+  </a>
+  <a href="https://x.com/mniu61934">
+    <img src="https://img.shields.io/badge/X-%40mniu61934-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X @mniu61934" />
+  </a>
+  <a href="https://github.com/Jasper-bo">
+    <img src="https://img.shields.io/badge/GitHub-Jasper--bo-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Jasper-bo" />
+  </a>
 </p>
 
+## Contribution trail 🐍
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Toolbox
 
+### AI & product
+
 <p>
-  <img src="https://img.shields.io/badge/AI%20Product-111827?style=flat-square" alt="AI Product" />
-  <img src="https://img.shields.io/badge/Agent%20Workflows-111827?style=flat-square" alt="Agent Workflows" />
-  <img src="https://img.shields.io/badge/Product%20Discovery-111827?style=flat-square" alt="Product Discovery" />
-  <img src="https://img.shields.io/badge/Evaluation-111827?style=flat-square" alt="Evaluation" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-EC4899?style=flat-square&amp;logo=target&amp;logoColor=white" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Agentic_Commerce-0F766E?style=flat-square&amp;logo=shopify&amp;logoColor=white" alt="Agentic Commerce" />
+  <img src="https://img.shields.io/badge/Product_Discovery-F59E0B?style=flat-square&amp;logo=lightbulb&amp;logoColor=white" alt="Product Discovery" />
+  <img src="https://img.shields.io/badge/Content_Modeling-2563EB?style=flat-square&amp;logo=json&amp;logoColor=white" alt="Content Modeling" />
 </p>
+
+### Engineering
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&amp;logo=vitest&amp;logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&amp;logo=markdown&amp;logoColor=white" alt="Markdown" />
 </p>
-
 
 > **Current focus:** AI agents in product workflows, agentic commerce, and focused health software.
 
@@ -71,7 +103,6 @@ Observe real signals → define the problem → reduce the scope
 - Keep product judgment, requirements, interface, and implementation in one continuous context.
 - Use deterministic systems for rules, money, permissions, and safety; use agents where goals and tool paths are genuinely uncertain.
 - Prefer a small verified loop over a large untested feature list.
-
 
 ## Open questions I'm exploring
 
