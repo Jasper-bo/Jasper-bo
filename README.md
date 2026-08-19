@@ -31,11 +31,9 @@
 
 ## Contribution trail 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Jasper-bo/Jasper-bo/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img width="100%" alt="Jasper-bo contribution trail snake animation" src="./assets/contribution-snake.svg" />
+</p>
 
 ## Toolbox
 
