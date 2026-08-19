@@ -1,0 +1,84 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jasper-bo contribution trail snake</title>
+  <desc id="desc">An animated teal and violet snake travels through a stylized contribution grid.</desc>
+  <defs>
+    <linearGradient id="background" x1="44" y1="20" x2="1158" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#08202A"/>
+    </linearGradient>
+    <linearGradient id="snake" x1="0" y1="0" x2="94" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(965 142) rotate(160) scale(280 160)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="14" height="14" rx="3" fill="#253041"/>
+    </pattern>
+    <filter id="headGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <path id="route" d="M125 198 C205 198 218 118 305 118 C402 118 393 210 500 210 C610 210 620 106 735 106 C850 106 854 190 960 190 C1035 190 1049 142 1110 142"/>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="278" rx="24" fill="url(#background)" stroke="#334155" stroke-opacity="0.65" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="278" rx="24" fill="url(#glow)"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif">
+    <text x="44" y="48" fill="#E5E7EB" font-size="15" font-weight="700" letter-spacing="2.4">CONTRIBUTION TRAIL</text>
+    <circle cx="253" cy="43" r="4" fill="#2DD4BF"/>
+    <text x="267" y="48" fill="#7DD3FC" font-size="13" font-weight="600" letter-spacing="1.8">JASPER-BO</text>
+    <text x="1156" y="48" fill="#64748B" text-anchor="end" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">BUILD · LEARN · ITERATE</text>
+  </g>
+
+  <rect x="44" y="72" width="1112" height="160" rx="14" fill="url(#grid)" opacity="0.96"/>
+
+  <g opacity="0.96">
+    <rect x="66" y="174" width="14" height="14" rx="3" fill="#134E4A"/>
+    <rect x="86" y="174" width="14" height="14" rx="3" fill="#0F766E"/>
+    <rect x="106" y="174" width="14" height="14" rx="3" fill="#14B8A6"/>
+    <rect x="226" y="114" width="14" height="14" rx="3" fill="#5EEAD4"/>
+    <rect x="246" y="114" width="14" height="14" rx="3" fill="#14B8A6"/>
+    <rect x="286" y="94" width="14" height="14" rx="3" fill="#8B5CF6"/>
+    <rect x="306" y="94" width="14" height="14" rx="3" fill="#A78BFA"/>
+    <rect x="446" y="194" width="14" height="14" rx="3" fill="#14B8A6"/>
+    <rect x="466" y="194" width="14" height="14" rx="3" fill="#2DD4BF"/>
+    <rect x="606" y="114" width="14" height="14" rx="3" fill="#0F766E"/>
+    <rect x="626" y="94" width="14" height="14" rx="3" fill="#14B8A6"/>
+    <rect x="646" y="94" width="14" height="14" rx="3" fill="#5EEAD4"/>
+    <rect x="766" y="114" width="14" height="14" rx="3" fill="#8B5CF6"/>
+    <rect x="786" y="114" width="14" height="14" rx="3" fill="#A78BFA"/>
+    <rect x="906" y="174" width="14" height="14" rx="3" fill="#0F766E"/>
+    <rect x="926" y="174" width="14" height="14" rx="3" fill="#14B8A6"/>
+    <rect x="946" y="174" width="14" height="14" rx="3" fill="#2DD4BF"/>
+    <rect x="1086" y="134" width="14" height="14" rx="3" fill="#5EEAD4"/>
+  </g>
+
+  <use href="#route" stroke="#2DD4BF" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 10"/>
+
+  <g>
+    <animateMotion dur="9s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#route"/>
+    </animateMotion>
+    <circle cx="0" cy="0" r="25" fill="#2DD4BF" fill-opacity="0.14" filter="url(#headGlow)"/>
+    <circle cx="-54" cy="0" r="10" fill="#8B5CF6"/>
+    <circle cx="-37" cy="0" r="11" fill="#7C6CF2"/>
+    <circle cx="-19" cy="0" r="12" fill="#4F9EDB"/>
+    <circle cx="0" cy="0" r="14" fill="#2DD4BF"/>
+    <circle cx="4" cy="-5" r="2.4" fill="#07151A"/>
+    <circle cx="4" cy="5" r="2.4" fill="#07151A"/>
+    <path d="M12 -2L20 0L12 2" stroke="#F472B6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6B7A90">
+    <text x="44" y="257">signal</text>
+    <text x="100" y="257" fill="#2DD4BF">→</text>
+    <text x="122" y="257">decision</text>
+    <text x="190" y="257" fill="#2DD4BF">→</text>
+    <text x="212" y="257">working software</text>
+    <text x="1156" y="257" text-anchor="end">github.com/Jasper-bo</text>
+  </g>
+</svg>
