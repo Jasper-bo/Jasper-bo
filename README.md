@@ -8,6 +8,13 @@
   <a href="https://x.com/mniu61934">X / @mniu61934</a>
 </p>
 
+
+## Hi, I'm Junbo 👋
+
+I'm a computer science student and an **AI-native product builder**. I turn real user signals into focused product decisions, then shorten the distance from a written idea to working software.
+
+我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是“让 AI 多生成一些东西”，而是如何用它更快地理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
+
 ## Toolbox
 
 <p>
@@ -26,11 +33,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
 </p>
 
-## Hi, I'm Junbo 👋
-
-I'm a computer science student and an **AI-native product builder**. I turn real user signals into focused product decisions, then shorten the distance from a written idea to working software.
-
-我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是“让 AI 多生成一些东西”，而是如何用它更快地理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
 
 > **Current focus:** AI agents in product workflows, agentic commerce, and focused health software.
 
