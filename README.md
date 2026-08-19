@@ -1,4 +1,9 @@
 
+## Hi, I'm Junbo 👋
+
+I'm a computer science student and an **AI-native product builder**. I turn real user signals into focused product decisions, then shorten the distance from a written idea to working software.
+
+我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是“让 AI 多生成一些东西”，而是如何用它更快地理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
 
 <p align="center">
   <a href="https://jasper-bo.github.io/">Personal site</a>
@@ -9,11 +14,6 @@
 </p>
 
 
-## Hi, I'm Junbo 👋
-
-I'm a computer science student and an **AI-native product builder**. I turn real user signals into focused product decisions, then shorten the distance from a written idea to working software.
-
-我是一名计算机专业学生，也是一名 AI-native 产品探索者。我关注的不是“让 AI 多生成一些东西”，而是如何用它更快地理解真实需求、收窄产品范围，并交付可以验证的产品闭环。
 
 ## Toolbox
 
