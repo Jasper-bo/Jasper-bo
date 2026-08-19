@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="He Junbo — AI-native product builder" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://jasper-bo.github.io/">Personal site</a>
@@ -8,6 +6,24 @@
   <a href="mailto:2909066560@qq.com">Email</a>
   ·
   <a href="https://x.com/mniu61934">X / @mniu61934</a>
+</p>
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Product-111827?style=flat-square" alt="AI Product" />
+  <img src="https://img.shields.io/badge/Agent%20Workflows-111827?style=flat-square" alt="Agent Workflows" />
+  <img src="https://img.shields.io/badge/Product%20Discovery-111827?style=flat-square" alt="Product Discovery" />
+  <img src="https://img.shields.io/badge/Evaluation-111827?style=flat-square" alt="Evaluation" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ## Hi, I'm Junbo 👋
@@ -54,23 +70,6 @@ Observe real signals → define the problem → reduce the scope
 - Use deterministic systems for rules, money, permissions, and safety; use agents where goals and tool paths are genuinely uncertain.
 - Prefer a small verified loop over a large untested feature list.
 
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Product-111827?style=flat-square" alt="AI Product" />
-  <img src="https://img.shields.io/badge/Agent%20Workflows-111827?style=flat-square" alt="Agent Workflows" />
-  <img src="https://img.shields.io/badge/Product%20Discovery-111827?style=flat-square" alt="Product Discovery" />
-  <img src="https://img.shields.io/badge/Evaluation-111827?style=flat-square" alt="Evaluation" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-</p>
 
 ## Open questions I'm exploring
 
