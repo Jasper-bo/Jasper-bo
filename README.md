@@ -1,7 +1,7 @@
 # Hi, I'm Junbo 👋
 
 <a href="https://github.com/Jasper-bo">
-  <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=Jasper-bo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Junbo's GitHub statistics" />
+  <img align="right" width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jasper-bo&amp;show_icons=true&amp;theme=tokyonight" alt="Junbo's GitHub statistics" />
 </a>
 
 - 🎓 Computer science student and **AI-native product builder**
