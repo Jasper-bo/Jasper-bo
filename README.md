@@ -29,11 +29,6 @@
   </a>
 </p>
 
-## Contribution trail 🐍
-
-<p align="center">
-  <img width="100%" alt="Jasper-bo contribution trail snake animation" src="./assets/contribution-snake.svg" />
-</p>
 
 ## Toolbox
 
